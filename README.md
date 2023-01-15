@@ -7,8 +7,6 @@ This is my project for learning the basics of creating and sharing a repository 
 # Development Environment
 
 I used Visual Studio Code, Github, and Python 3.7.6 to create this project.
-{Describe the tools that you used to develop the software}
-
 
 # Useful Websites
 
